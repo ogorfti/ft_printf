@@ -6,11 +6,16 @@
 /*   By: ogorfti <ogorfti@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/26 17:04:57 by ogorfti           #+#    #+#             */
-/*   Updated: 2022/10/28 14:34:39 by ogorfti          ###   ########.fr       */
+/*   Updated: 2022/10/29 13:09:24 by ogorfti          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "ft_printf.h"
+
+//Generally, you can store larger numbers in 
+//a “long int” than you can in an “int”.
+
+//%d assume base 10 while %i auto detects the base.
 
 int	ft_putnbr(long int nbr)
 {

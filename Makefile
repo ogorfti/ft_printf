@@ -6,7 +6,7 @@
 #    By: ogorfti <ogorfti@student.42.fr>            +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/10/26 18:00:44 by ogorfti           #+#    #+#              #
-#    Updated: 2022/10/28 14:33:55 by ogorfti          ###   ########.fr        #
+#    Updated: 2022/10/29 13:10:59 by ogorfti          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -24,7 +24,7 @@ SRCS = ft_printf.c\
 
 NAME = libftprintf.a
 
-CC = gcc
+CC = cc
 
 RM = rm -f
 

@@ -6,7 +6,7 @@
 /*   By: ogorfti <ogorfti@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/25 17:12:59 by ogorfti           #+#    #+#             */
-/*   Updated: 2022/10/28 16:06:44 by ogorfti          ###   ########.fr       */
+/*   Updated: 2022/10/29 13:00:20 by ogorfti          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,7 +16,6 @@
 # include <stdarg.h>
 # include <unistd.h>
 # include <stdlib.h>
-# include <stdio.h>
 
 int	ft_printf(const char *str, ...);
 int	ft_putchar(int c);
