@@ -2,6 +2,11 @@
 	<b><i>This is my ft_printf project from the 42 cursus</i></b><br>
 </p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/1W40UWS9peSru/giphy.gif" alt="animated" />
+</div>
+
+
 ## 🗣️ About
 
 > _This project is pretty straight forward. You will recode printf. Hopefully you will be able to reuse it in future project without the fear of being flagged as a cheater. You will mainly learn how to use variadic arguments._
